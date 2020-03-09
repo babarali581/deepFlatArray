@@ -6,7 +6,7 @@ It accepts nested array and flat it into single array  .
 
 # Installation
 
-`npm i deepFlat --save`
+`npm i deepflatarray --save`
 
 
 Then... 

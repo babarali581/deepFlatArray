@@ -1,5 +1,5 @@
 {
-    "name": "deepFlatArray",
+    "name": "deepflatarray",
     "version": "1.0.0",
     "description": "Accespts deep nested array and turn it into single array ",
     "main": "index.js",
@@ -15,7 +15,7 @@
       "deepFlat",
       "deep flat",
       "flat",
-      "deep-sort"
+      "mergeNestedArray"
     ],
     "author": "Babar",
     "license": "ISC",

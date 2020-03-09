@@ -14,6 +14,6 @@ let afterDeep = dummy.reduce((acc , val)=>{
 return afterDeep
 }
 
-module.export = deepFlat
+module.exports = deepFlat
 
 //let test = [ 'a' , 'b' , 'c' ,'d' , ["e","f","g",["i", "j" , "k" , ["l" , "m " , "n"]] ,"h"] ]
