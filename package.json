@@ -1,0 +1,27 @@
+{
+    "name": "deepFlatArray",
+    "version": "1.0.0",
+    "description": "Accespts deep nested array and turn it into single array ",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/babarali581/deepSorted.git"
+    },
+    "keywords": [
+      "javascript",
+      "deepFlat",
+      "deep flat",
+      "flat",
+      "deep-sort"
+    ],
+    "author": "Babar",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/babarali581/deepSorted/issues"
+    },
+    "homepage": "https://github.com/deepSorted#readme"
+  }
+  
