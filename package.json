@@ -1,6 +1,6 @@
 {
     "name": "deepflatarray",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Accespts deep nested array and turn it into single array ",
     "main": "index.js",
     "scripts": {
